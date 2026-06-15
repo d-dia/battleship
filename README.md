@@ -79,3 +79,4 @@
 - Ход компьютера `computer_turn` и выстрел игрока `player_shot` (`main.py`)
 - Отмена хода `undo_move` и статистика `show_stats` (`main.py`)
 - Выбор партии `start_game`, список команд `show_help` и главный цикл `main` (`main.py`)
+- https://drive.google.com/drive/folders/1njSD4EjoIcmphQZjA87nX00BmtYYgR2Z
